@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:# 💫 
-<br>Hi, I'm [Ritesh salunke] 👋  <br>Final year B.Tech CSE student  <br>Aspiring Java Backend Developer  <br><br>💻 Tech Stack:<br>- Java, Spring Boot, Hibernate<br>- MySQL, REST APIs<br><br><br>🚀 Currently:<br>- Building backend projects<br><br><br>📫 Reach me: inforsalunke@gmail.com<br><br>
+<br>Hi, I'm [Ritesh salunke] 👋  <br>Final year B.Tech CSE student  <br>Aspiring fullstack Java  Developer  <br><br>💻 Tech Stack:<br>- Java, Spring Boot, Hibernate<br>- MySQL, REST APIs<br><br><br>🚀 Currently:<br>- Building backend projects<br><br><br>📫 Reach me: inforsalunke@gmail.com<br><br>
 
 
 ## 🌐 Socials:
