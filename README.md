@@ -1,153 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ritesh Salunke</h1>
+## Hi there 👋
 
-<h3 align="center">
-🚀 Java Backend Developer | Spring Boot | REST API | MySQL
-</h3>
+# 💫 About Me:# 💫 
+<br>Hi, I'm [Ritesh salunke] 👋  <br>Final year B.Tech CSE student  <br>Aspiring fullstack Java  Developer  <br><br>💻 Tech Stack:<br>- Java, Spring Boot, Hibernate<br>- MySQL, REST APIs<br><br><br>🚀 Currently:<br>- Building backend projects<br><br><br>📫 Reach me: inforsalunke@gmail.com<br><br>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Things;Welcome+to+My+GitHub!" />
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritesh_salunke_91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritesh-salunke-084494269) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inforsalunke@gmail.com) 
 
-# 💻 Coding Animation
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=riteshsalunke91&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=riteshsalunke91&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=riteshsalunke91&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-```java
-public class Ritesh {
-
-    String role = "Java Backend Developer";
-    String language = "Java";
-    String framework = "Spring Boot";
-    String database = "MySQL";
-
-    void learning(){
-        System.out.println("Spring Security");
-        System.out.println("Microservices");
-        System.out.println("Docker");
-    }
-
-    void goal(){
-        System.out.println("Become a Software Engineer 🚀");
-    }
-}
-```
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,postman,maven,vscode,idea,eclipse"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-> **"First, solve the problem. Then, write the code." – John Johnson**
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-### Happy Coding 🚀
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
