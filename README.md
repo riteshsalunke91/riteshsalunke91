@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Ritesh Salunke 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=180&section=header&text=Ritesh%20Salunke&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Fullstack%20Java%20Developer&descSize=18&descAlignY=65" alt="header" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Final+Year+B.Tech+CSE+Student;Aspiring+Fullstack+Java+Developer;Java+%7C+Spring+Boot+%7C+Hibernate;Building+Backend+Projects+%F0%9F%9A%80" alt="Typing SVG" />
@@ -69,15 +71,19 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 💻 Currently Coding
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riteshsalunke91/riteshsalunke91/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="60" alt="vscode" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200" alt="coding gif" />
 </p>
 
-> ⚠️ The snake animation above needs a one-time setup (GitHub Action) to generate — see instructions below.
-
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=120&section=footer" alt="footer" />
+</p>
 
 <p align="center"><i>Thanks for stopping by! ⚡</i></p>
 
