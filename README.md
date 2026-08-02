@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420"/>
-
 </div>
 
 ---
