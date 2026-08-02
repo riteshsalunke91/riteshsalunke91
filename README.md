@@ -1,21 +1,22 @@
-# <img src="https://media.tenor.com/INF8Gn9dA4cAAAAi/waving-hand.gif" width="35"> About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e3a8a,50:2563eb,75:38bdf8,100:22d3ee&height=250&section=header&text=Ritesh%20Salunke&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20Enthusiast&descAlignY=58"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ritesh+Salunke;☕+Java+Full+Stack+Developer;🚀+Spring+Boot+Developer;⚛️+React+JS+Learner;💡+Always+Learning+New+Technologies" />
+# 👋 Hi, I’m **Ritesh Salunke**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+Full+Stack+Developer;Spring+Boot+%26+REST+API+Developer;React+Frontend+Learner;Building+Real+World+Backend+Projects;Always+Learning+Something+New"/>
 
 </div>
 
-<table>
-<tr>
+---
 
-<td width="60%" valign="top">
+<div align="center">
 
-### 👨‍💻 Hi, I'm **Ritesh Salunke**
+## 💻 Developer at Work
 
-🎓 **Final Year B.Tech Computer Science Engineering Student**
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f203213.gif" width="760" alt="Developer coding animation"/>
 
-💼 **Aspiring Java Full Stack Developer**
+</div>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
