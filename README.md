@@ -1,20 +1,22 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e3a8a,50:2563eb,75:38bdf8,100:22d3ee&height=250&section=header&text=Ritesh%20Salunke&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20Enthusiast&descAlignY=58"/>
-
 <div align="center">
 
-# 👋 Hi, I’m **Ritesh Salunke**
+# Hi 👋, I'm Ritesh Salunke
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+Full+Stack+Developer;Spring+Boot+%26+REST+API+Developer;React+Frontend+Learner;Building+Real+World+Backend+Projects;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 💫 About Me
 
-## 💻 Developer at Work
+🎓 Final Year B.Tech Computer Science Student
 
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f203213.gif" width="760" alt="Developer coding animation"/>
+💻 Aspiring Java Full Stack Developer
+
+🚀 Passionate about building scalable backend applications using Java & Spring Boot.
 
 </div>
 <p align="center">
