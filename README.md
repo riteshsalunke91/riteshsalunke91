@@ -29,11 +29,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons
-  i=java,spring,hibernate,mysql,javascript,react,html,css,git,github,postman,maven,vscode,idea,eclipse"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,javascript,react,html,css,git,github,postman,maven,vscode,idea,eclipse"/>
 
 </p>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=riteshsalunke91&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
