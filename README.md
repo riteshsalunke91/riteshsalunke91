@@ -29,8 +29,8 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,javascript,react,html,css,git,
-  github,postman,maven,vscode,idea,eclipse"/>
+<img src="https://skillicons.dev/icons
+  i=java,spring,hibernate,mysql,javascript,react,html,css,git,github,postman,maven,vscode,idea,eclipse"/>
 
 </p>
 
