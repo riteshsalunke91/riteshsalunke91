@@ -1,63 +1,21 @@
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+# <img src="https://media.tenor.com/INF8Gn9dA4cAAAAi/waving-hand.gif" width="35"> About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+My+GitHub;☕+Java+Full+Stack+Developer;🌱+Spring+Boot+%7C+REST+API+Developer;⚛️+React+JS+Learner;💡+Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ritesh+Salunke;☕+Java+Full+Stack+Developer;🚀+Spring+Boot+Developer;⚛️+React+JS+Learner;💡+Always+Learning+New+Technologies" />
 
 </div>
 
 <table>
 <tr>
-<td width="60%">
+
+<td width="60%" valign="top">
 
 ### 👨‍💻 Hi, I'm **Ritesh Salunke**
 
-🎓 Final Year **B.Tech Computer Science Engineering** Student
+🎓 **Final Year B.Tech Computer Science Engineering Student**
 
-💼 Aspiring **Java Full Stack Developer**
-
-🚀 Passionate about building scalable backend applications using **Java** & **Spring Boot**
-
-🌱 Currently exploring **Spring Security, Docker, Microservices & React**
-
-💡 I enjoy solving coding problems and building real-world applications.
-
-📫 **Email:** **inforsalunke@gmail.com**
-
-</td>
-
-<td align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f203213.gif" width="320"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Current Focus
-
-```text
-💻 Building Production-Level Backend Projects
-🔐 Learning Spring Security & JWT
-⚛️ Developing React Applications
-🐳 Exploring Docker & Microservices
-📚 Practicing Data Structures & Algorithms
-```
-
----
-
-## ☕ Tech Stack
-
-```text
-💻 Language      : Java, JavaScript
-🚀 Backend       : Spring Boot, Hibernate, JPA
-🌐 Frontend      : React.js, HTML5, CSS3
-🗄️ Database      : MySQL
-🔧 Tools         : Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code
-```
+💼 **Aspiring Java Full Stack Developer**
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
