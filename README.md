@@ -10,11 +10,42 @@
 
 # 💫 About Me
 
-🎓 Final Year B.Tech Computer Science Student
 
-💻 Aspiring Java Full Stack Developer
+### 👨‍💻 A Little About Me
 
-🚀 Passionate about building scalable backend applications using Java & Spring Boot.
+```java
+public class RiteshSalunke {
+
+    String role = "Aspiring Java Full Stack Developer";
+
+    String education = "Final Year B.Tech CSE Student";
+
+    String[] backend = {
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "JPA",
+        "REST APIs"
+    };
+
+    String[] frontend = {
+        "React.js",
+        "JavaScript",
+        "HTML",
+        "CSS"
+    };
+
+    String database = "MySQL";
+
+    String[] currentlyLearning = {
+        "Spring Security",
+        "JWT Authentication",
+        "Docker",
+        "Microservices"
+    };
+
+    String goal = "Build scalable real-world applications 🚀";
+}
 
 </div>
 <p align="center">
