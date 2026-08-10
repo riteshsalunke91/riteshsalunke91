@@ -12,40 +12,14 @@
 
 
 ### 👨‍💻 A Little About Me
-
-```java
-public class RiteshSalunke {
-
-    String role = "Aspiring Java Full Stack Developer";
-
-    String education = "Final Year B.Tech CSE Student";
-
-    String[] backend = {
-        "Java",
-        "Spring Boot",
-        "Hibernate",
-        "JPA",
-        "REST APIs"
-    };
-
-    String[] frontend = {
-        "React.js",
-        "JavaScript",
-        "HTML",
-        "CSS"
-    };
-
-    String database = "MySQL";
-
-    String[] currentlyLearning = {
-        "Spring Security",
-        "JWT Authentication",
-        "Docker",
-        "Microservices"
-    };
-
-    String goal = "Build scalable real-world applications 🚀";
-}
+🎓 `Final Year B.Tech CSE Student`  
+☕ `Aspiring Java Full Stack Developer`  
+🚀 `Building backend projects & real-world applications`  
+🌱 `Currently learning Microservices, AWS, Docker & Spring Security`  
+🔐 `Exploring JWT Authentication & Role-Based Security`  
+☁️ `Learning cloud concepts and scalable application architecture`  
+⚛️ `Improving React.js for full-stack development`  
+🧩 `Practicing DSA, problem solving & clean code`  
 
 </div>
 <p align="center">
