@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ritesh Salunke
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <br>
 <img src="https://cdn.dribbble.com/users/2356327/screenshots/4877670/dribbble1_2.gif"
-     width="500"
+     width="400"
      alt="Developer Coding Animation"/>
 
 </div>
