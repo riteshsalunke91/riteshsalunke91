@@ -20,11 +20,17 @@
 ☁️ `Learning cloud concepts and scalable application architecture`  
 ⚛️ `Improving React.js for full-stack development`  
 🧩 `Practicing DSA, problem solving & clean code`  
+## ⚡ Fun Fact
+
+<div align="center">
+
+### 💻 I enjoy turning ideas into real-world applications and learning something new every day! 🚀
+
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 
 </div>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritesh_salunke_91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritesh-salunke-084494269) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inforsalunke@gmail.com) 
