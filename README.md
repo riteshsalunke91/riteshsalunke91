@@ -16,10 +16,10 @@
 ☕ `Aspiring Java Full Stack Developer`  
 🚀 `Building backend projects & real-world applications`  
 🌱 `Currently learning Microservices, AWS, Docker & Spring Security`  
-🔐 `Exploring JWT Authentication & Role-Based Security`  
-☁️ `Learning cloud concepts and scalable application architecture`  
+🔐 `Exploring JWT Authentication & Role-Based Security`    
 ⚛️ `Improving React.js for full-stack development`  
-🧩 `Practicing DSA, problem solving & clean code`  
+
+
 ## ⚡ Fun Fact
 
 <div align="center">
@@ -27,8 +27,9 @@
 ### 💻 I enjoy turning ideas into real-world applications and learning something new every day! 🚀
 
 <br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+<img src="https://cdn.dribbble.com/users/2356327/screenshots/4877670/dribbble1_2.gif"
+     width="500"
+     alt="Developer Coding Animation"/>
 
 </div>
 
