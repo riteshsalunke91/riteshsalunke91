@@ -11,8 +11,7 @@
 # 💫 About Me
 
 
-### 👨‍💻 A Little About Me
-🎓 `Final Year B.Tech CSE Student`  
+### 👨‍💻 A Little About Me  
 ☕ `Aspiring Java Full Stack Developer`  
 🚀 `Building backend projects & real-world applications`  
 🌱 `Currently learning Microservices, AWS, Docker & Spring Security`  
