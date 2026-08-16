@@ -21,16 +21,13 @@
 
 ## ⚡ Fun Fact
 
-<div align="center">
+<p align="center">
 
-### 💻 I enjoy turning ideas into real-world applications and learning something new every day! 🚀
-
-<br>
-<img src="https://cdn.dribbble.com/users/2356327/screenshots/4877670/dribbble1_2.gif"
-     width="400"
-     alt="Developer Coding Animation"/>
-
-</div>
+     ### 💻 I enjoy turning ideas into real-world applications and learning something new every day! 🚀
+  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"
+       width="400"
+       alt="Coding Animation"/>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritesh_salunke_91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritesh-salunke-084494269) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inforsalunke@gmail.com) 
