@@ -24,7 +24,7 @@
 <p align="center">
      ### 💻 I enjoy turning ideas into real-world applications and learning something new every day! 🚀
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-       width="400"
+       width="350"
        alt="Programmer Animation"/>
 </p>
 
