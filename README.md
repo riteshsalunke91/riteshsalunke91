@@ -19,12 +19,12 @@
 ⚛️ `Improving React.js for full-stack development`  
 
 
-## ⚡ Fun Fact
+ ⚡ Fun Fact
 
 <p align="center">
      ### 💻 I enjoy turning ideas into real-world applications and learning something new every day! 🚀
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-       width="350"
+       width="330"
        alt="Programmer Animation"/>
 </p>
 
