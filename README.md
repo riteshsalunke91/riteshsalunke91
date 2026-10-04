@@ -1,48 +1,118 @@
 <div align="center">
 
-# Hi 👋, I'm Ritesh Salunke
+# 👋 Hi, I'm **Ritesh Salunke**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
+### ☕ Java Full Stack Developer | Spring Boot | REST APIs | React.js
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+API+Developer;Backend+Development+Enthusiast;React.js+%7C+MySQL;Learning+Microservices+%26+AWS;Building+Real-World+Applications" />
+
+<br>
+
+<a href="https://github.com/riteshsalunke91">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ritesh-salunke-084494269">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:inforsalunke@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
+🎓 **B.Tech Computer Science Engineering Graduate**
 
-### 👨‍💻 A Little About Me  
-☕ `Aspiring Java Full Stack Developer`  
-🚀 `Building backend projects & real-world applications`  
-🌱 `Currently learning Microservices, AWS, Docker & Spring Security`  
-🔐 `Exploring JWT Authentication & Role-Based Security`    
-⚛️ `Improving React.js for full-stack development`  
+☕ **Aspiring Java Full Stack Developer**
 
+🚀 Building **backend and full-stack applications** using Java and Spring Boot
 
- ⚡ Fun Fact
+🌱 Currently learning **Microservices, AWS, Docker & Spring Security**
 
-<p align="center">
-     ### 💻 I enjoy turning ideas into real-world applications and learning something new every day! 🚀
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-       width="330"
-       alt="Programmer Animation"/>
+🔐 Exploring **JWT Authentication & Role-Based Access Control**
+
+⚛️ Improving **React.js** for full-stack application development
+
+🗄️ Interested in **REST APIs, Database Design & Backend Architecture**
+
+🧩 Practicing **Problem Solving, DSA & Clean Code**
+
+🎯 **Career Goal:** To start my career as a Java Backend / Full Stack Developer and contribute to building scalable real-world applications.
+
+---
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+> 💡 I enjoy turning real-world ideas into applications and continuously learning new technologies.
+
+<br>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+     width="330"
+     alt="Programmer Coding Animation"/>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### ☕ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven"/>
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritesh_salunke_91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritesh-salunke-084494269) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inforsalunke@gmail.com) 
+### ⚛️ Frontend Development
 
-# 💻 Tech Stack:
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,javascript,react,html,css,git,github,postman,maven,vscode,idea,eclipse"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=javascript,react,html,css"/>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=riteshsalunke91&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=riteshsalunke91&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=riteshsalunke91&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🗄️ Database
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
+### 🔧 Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse,docker"/>
+</p>
+
+### ☁️ Currently Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker"/>
+</p>
+
+**Microservices • Spring Security • JWT • System Design**
+
+---
+
+## 🚀 What I'm Working On
+
+```text
+☕ Java & Spring Boot
+        ↓
+🌐 REST API Development
+        ↓
+🗄️ MySQL + JPA/Hibernate
+        ↓
+🔐 Spring Security + JWT
+        ↓
+⚛️ React.js
+        ↓
+🐳 Docker
+        ↓
+⚙️ Microservices
+        ↓
+☁️ AWS
