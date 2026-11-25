@@ -136,15 +136,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/riteshsalunke91/riteshsalunke91/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
 
 <div align="center">
 
