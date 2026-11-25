@@ -78,12 +78,13 @@
 
 **JPA • Hibernate • JDBC • pgvector**
 
-### 🤖 AI & LLM Technologies
-
-<img src="https://skillicons.dev/icons?i=ollama,openai" />
-
-**Spring AI • Large Language Models (LLMs) • Retrieval-Augmented Generation (RAG) • Vector Search • pgvector**
-
+🤖 AI & LLM Technologies
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
+</p>
 ### 🔧 Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse,docker" />
